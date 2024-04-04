@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right, red, gray, blue);
+}
+header{
+    width: 100%;
+    padding:20px;
+    background:linear-gradient(to right, white, yellow, rgb(121, 53, 53))
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+nav{
+    background-color: greenyellow ;
+}
